@@ -20,6 +20,12 @@ Then paste the following code in the notebook cell:
 (Remember to replace the your_image.jpeg with the real name of the image)
 Now run the code and see the prediction with accuracy after scrolling down !
 
+
+
+
+
+-------------CODE------------------
+
 from keras.models import load_model
 import cv2
 import numpy as np
@@ -56,6 +62,7 @@ print("PNEUMONIA TEST RESULT : ",pred)
 print('The probability of the test being {} is {}% '.format(pred,int(probabilities*100)))
 print("------------------------------------")
 
+-----------------END-------------
 
 
 #mail - himanshuclash3@gmail.com
