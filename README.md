@@ -1,6 +1,6 @@
 # CNN-ai-pneumonia-detection
 
-Detects whether a person has pneumonia or not based on a chest X-ray ; Has an accuracy of 90+ .
+Detects whether a person has pneumonia or not based on a chest X-ray ; Has an accuracy of 98+ .
 
 Trained on a dataset of 2.29 Gb (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
