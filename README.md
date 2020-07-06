@@ -1,4 +1,7 @@
 # CNN-ai-pneumonia-detection
+Discord server with ready to use Ai Doctor : https://discord.gg/ZUGVPSS
+
+Soon open-sourcing the Discord bot Source code ! <3
 
 Detects whether a person has pneumonia or not based on a chest X-ray ; Has an accuracy of 98+ .
 
