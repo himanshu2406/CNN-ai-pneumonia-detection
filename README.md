@@ -15,6 +15,10 @@ trained model size = 9 Mb so you don't have to worry about downloading the entir
 
 # HOW TO PREDICT ON NEW IMAGES :
 
+go to https://discord.gg/ZUGVPSS and pass in the comand !d along with your image url and get back the result within seconds ! 
+
+Alternative : 
+
 go to https://colab.research.google.com/
 press upload and upload the .h5 file (pneumonia_pred_new.h5)
 press upload and upload the x-ray image you want to run the prediction on.
