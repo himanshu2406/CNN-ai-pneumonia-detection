@@ -4,7 +4,7 @@
 
 Discord server with ready to use Ai Doctor : https://discord.gg/ZUGVPSS
 
-Soon open-sourcing the Discord bot Source code ! <3
+## The discord bot is now open source ! : https://github.com/himanshu2406/Ai-Doctor
 
 Detects whether a person has pneumonia or not based on a chest X-ray ; Has an accuracy of 98+ .
 
@@ -34,4 +34,4 @@ CODE:-
 https://pastebin.com/srVfAYLD
 
 
-#mail - himanshuclash3@gmail.com
+## Discord - Firelogger#7717
